@@ -58,9 +58,3 @@
 * Streamlit for creating the user interface.
 * NLTK for text processing and tokenization.
 <strong>Feel free to reach out with any questions or suggestions. Happy coding! 😊</strong>
-
-* First itemvnsdlkgsoigjsdposdnp
-* Second itemlvnlksdgsdklgsodgihsodgsddog
-  * Sub-itemlvs;dgpojg[spogjspdogjspogsdjgpsopsdmvsl;vm;lvmc;lbmx;bmx;lbmxc;kngelrghoigheor
-  * Sub-item
-* Third item
