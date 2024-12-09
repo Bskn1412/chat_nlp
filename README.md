@@ -22,7 +22,7 @@
 * Libraries: streamlit, nltk, scikit-learn, numpy<br>
 <h4>Steps</h4>
 1. Clone the repository:
-'''git clone https://github.com/yourusername/chatbot-nlp-logistic-regression.git  <br>
+```git clone https://github.com/yourusername/chatbot-nlp-logistic-regression.git ```<br>
 cd chatbot-nlp-logistic-regression'''<br>  
 2. Install dependencies:
 '''pip install -r requirements.txt'''<br>
