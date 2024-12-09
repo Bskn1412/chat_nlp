@@ -22,29 +22,17 @@
 * Libraries: streamlit, nltk, scikit-learn, numpy<br>
 <h4>Steps</h4>
 1. Clone the repository:
-##
-  git clone https://github.com/yourusername/chatbot-nlp-logistic-regression.git  <br>
-  
-##
-  cd chatbot-nlp-logistic-regression<br>  
-
+'''git clone https://github.com/yourusername/chatbot-nlp-logistic-regression.git'''  <br>
+'''cd chatbot-nlp-logistic-regression'''<br>  
 2. Install dependencies:
-##
-  pip install -r requirements.txt  <br>
-
+'''pip install -r requirements.txt'''<br>
 3. Download NLTK data (if not already installed):
-
-##
-  import nltk  
-##
-  nltk.download('punkt') <br>
+  '''import nltk'''<br>
+  '''nltk.download('punkt')''' <br>
 
 <h3>Usage</h3>
 1. Run the chatbot application:
-
-##
-  streamlit run app.py  <br>
-
+  '''streamlit run app.py'''<br>
 2. Open the provided URL in your browser.<br>
 3. Interact with the chatbot by typing queries and viewing responses.<br>
 <h3>How It Works</h3>
@@ -71,3 +59,8 @@
 * NLTK for text processing and tokenization.
 <strong>Feel free to reach out with any questions or suggestions. Happy coding! 😊</strong>
 
+* First item
+* Second item
+  * Sub-item
+  * Sub-item
+* Third item
