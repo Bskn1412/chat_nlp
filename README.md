@@ -2,17 +2,17 @@
 <p>Welcome to the Chatbot Using NLP and Logistic Regression repository! This project implements an interactive chatbot capable of understanding user intents and delivering meaningful responses. The system is built using Natural Language Processing (NLP) techniques and Logistic Regression, combined with an intuitive interface powered by Streamlit.</p>
 
 <h3>Features</h3>
-- Intent Recognition: Uses TF-IDF vectorization and Logistic Regression to classify user queries into predefined intents.<br>
-* Interactive User Interface: A modern and accessible chatbot interface built with Streamlit.<br>
-+ Conversation Logging: Saves user-chatbot interactions for future analysis and improvements.<br>
-- Customizable Intents: Easily update intents and responses by editing the intents.json file.<br>
+1. Intent Recognition: Uses TF-IDF vectorization and Logistic Regression to classify user queries into predefined intents.<br>
+2. Interactive User Interface: A modern and accessible chatbot interface built with Streamlit.<br>
+3. Conversation Logging: Saves user-chatbot interactions for future analysis and improvements.<br>
+4. Customizable Intents: Easily update intents and responses by editing the intents.json file.<br>
 <h3>Table of Contents</h3>
-1. Getting Started
-2. Installation
-3. Usage
-4. How It Works
-5. Future Enhancements
-6. Contributing
+1. Getting Started<br>
+2. Installation<br>
+3. Usage<br>
+4. How It Works<br>
+5. Future Enhancements<br>
+6. Contributing<br>
 <h3>Getting Started<h3>
 <p>Clone this repository and set up the environment to explore how the chatbot works and modify it as needed.</p>
 
@@ -22,8 +22,8 @@
 * Libraries: streamlit, nltk, scikit-learn, numpy<br>
 <h4>Steps</h4>
 1. Clone the repository:
-'''git clone https://github.com/yourusername/chatbot-nlp-logistic-regression.git'''  <br>
-'''cd chatbot-nlp-logistic-regression'''<br>  
+'''git clone https://github.com/yourusername/chatbot-nlp-logistic-regression.git  <br>
+cd chatbot-nlp-logistic-regression'''<br>  
 2. Install dependencies:
 '''pip install -r requirements.txt'''<br>
 3. Download NLTK data (if not already installed):
