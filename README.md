@@ -2,10 +2,10 @@
 <p>Welcome to the Chatbot Using NLP and Logistic Regression repository! This project implements an interactive chatbot capable of understanding user intents and delivering meaningful responses. The system is built using Natural Language Processing (NLP) techniques and Logistic Regression, combined with an intuitive interface powered by Streamlit.</p>
 
 <h3>Features</h3>
-* Intent Recognition: Uses TF-IDF vectorization and Logistic Regression to classify user queries into predefined intents.<br>
+- Intent Recognition: Uses TF-IDF vectorization and Logistic Regression to classify user queries into predefined intents.<br>
 * Interactive User Interface: A modern and accessible chatbot interface built with Streamlit.<br>
-* Conversation Logging: Saves user-chatbot interactions for future analysis and improvements.<br>
-* Customizable Intents: Easily update intents and responses by editing the intents.json file.<br>
++ Conversation Logging: Saves user-chatbot interactions for future analysis and improvements.<br>
+- Customizable Intents: Easily update intents and responses by editing the intents.json file.<br>
 <h3>Table of Contents</h3>
 1. Getting Started
 2. Installation
