@@ -54,7 +54,7 @@
 <p>Contributions are welcome! If you have suggestions, feel free to fork this repository, create a branch, and submit a pull request.</p>
 
 <h3>Acknowledgements</h3>
-* Scikit-learn for machine learning algorithms.
-* Streamlit for creating the user interface.
-* NLTK for text processing and tokenization.
+* Scikit-learn for machine learning algorithms.<br>
+* Streamlit for creating the user interface.<br>
+* NLTK for text processing and tokenization.<br>
 <strong>Feel free to reach out with any questions or suggestions. Happy coding! 😊</strong>
