@@ -41,12 +41,12 @@
   <h4>Data Source<h4>
     <p>All intents and responses are stored in a JSON file (intents.json), making it easy to customize or extend the chatbot's capabilities.</p>
 
-<h3>Future Enhancements<h3>
-  * Multilingual Support: Expand the chatbot to handle multiple languages.
-  * Dynamic Learning: Incorporate a mechanism to improve responses based on user feedback.
-  * Integration with Advanced Models: Implement BERT or GPT for more robust intent recognition.
-  * Enhanced Deployment: Host the chatbot on platforms like WhatsApp, Slack, or as a PWA.
-<h3>Contributing</h3>
+<h3>Future Enhancements</h3>
+  * Multilingual Support: Expand the chatbot to handle multiple languages.<br>
+  * Dynamic Learning: Incorporate a mechanism to improve responses based on user feedback.<br>
+  * Integration with Advanced Models: Implement BERT or GPT for more robust intent recognition.<br>
+  * Enhanced Deployment: Host the chatbot on platforms like WhatsApp, Slack, or as a PWA.<br>
+<h3>Contributing</h3><br>
 <p>Contributions are welcome! If you have suggestions, feel free to fork this repository, create a branch, and submit a pull request.</p>
 
 <h3>Acknowledgements</h3><br>
