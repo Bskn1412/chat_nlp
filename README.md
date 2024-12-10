@@ -45,7 +45,7 @@
   * Dynamic Learning: Incorporate a mechanism to improve responses based on user feedback.<br>
   * Integration with Advanced Models: Implement BERT or GPT for more robust intent recognition.<br>
   * Enhanced Deployment: Host the chatbot on platforms like WhatsApp, Slack, or as a PWA.<br>
-<h3>Contributing</h3><br>
+<h3>Contributing</h3>
 <p>Contributions are welcome! If you have suggestions, feel free to fork this repository, create a branch, and submit a pull request.</p>
 <h3>Acknowledgements</h3>
 * Scikit-learn for machine learning algorithms. <br>
