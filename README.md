@@ -54,4 +54,4 @@
 
 
         
-<strong>Feel free to reach out with any questions or suggestions. Happy coding! 😊</strong>
+<h3>Feel free to reach out with any questions or suggestions. Happy coding! 😊</h3>
