@@ -50,7 +50,7 @@
 <h3>Acknowledgements</h3>
 * Scikit-learn for machine learning algorithms. <br>
 * Streamlit for creating the user interface. <br>
-* NLTK for text processing and tokenization. <br>
+* NLTK for text processing and tokenization. <br><br>
 
 
         
